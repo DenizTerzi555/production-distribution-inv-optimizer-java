@@ -1,0 +1,11 @@
+facility,mode,capPerPeriod
+Bursa,Truck,3000
+Bursa,Rail,250
+Kocaeli,Truck,3000
+Kocaeli,Rail,250
+Iskenderun,Truck,3000
+Iskenderun,Rail,250
+Mersin,Truck,3000
+Mersin,Rail,250
+Izmir,Truck,3000
+Izmir,Rail,250

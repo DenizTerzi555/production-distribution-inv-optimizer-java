@@ -1,0 +1,3 @@
+name,costPerTonKm,emissionKgPerTonKm
+Truck,0.085,0.062
+Rail,0.045,0.022

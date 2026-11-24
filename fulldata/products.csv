@@ -1,0 +1,5 @@
+name,hoursPerTon,prodEmissionTPerT,holdingCostPerTPerPeriod
+Coil,0.5,1.8,2
+Sheet,0.4,1.6,1.5
+Rebar,0.6,2,1
+Wire,0.45,1.7,1.8
